@@ -26,6 +26,8 @@ Welcome to the **EVM Wallet Generator**! This is a user-friendly tool with a gra
    ```bash
    git clone https://github.com/Grobofhik/multi-creator-EVM-wallets.git
    cd multi-creator-EVM-wallets
+   python -m venv .venv
+   source .venv/bin/activate
 
 ## Usage
 
